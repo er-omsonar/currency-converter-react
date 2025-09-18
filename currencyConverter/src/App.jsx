@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import useCurrencyInfo from './hooks/useCurrencyInfo'
+import useCurrencyInfo from './hooks/useCurrencyinfo'
 import InputBox from './components/inputBox'
 
 function App() {
